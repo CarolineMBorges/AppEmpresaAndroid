@@ -1,0 +1,2 @@
+Este app tem como objetivo mostrar o funcionamento de botões para mudar de activity utilizando para isso o startActivity(), 
+e também tem o objetivo de mostrar um possível Layout para um aplicativo de uma Empresa.
